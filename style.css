@@ -21,7 +21,7 @@ body {
     position: absolute;
     top: 0px;
     left: 7;
-    width: 60%;
+    width: 99%;
     display: flex;
     justify-content: space-between;
 }
@@ -187,7 +187,7 @@ body {
     left: 70%;
 }
 
-@media only screen and (max-width:499px){
+@media only screen and (max-width:1400px){
 
     .main-2 .black-space{
 
@@ -198,10 +198,10 @@ body {
         left: 90px;
     }
 }
-@media only screen and (max-width:400px){
+@media only screen and (max-width:1400px){
 
 }
-@media only screen and (max-width:690px) {
+@media only screen and (max-width:1400px) {
 
   
 
@@ -218,7 +218,7 @@ body {
     display: flex;
 
 }
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:1400px) {
     .white-space-2{
         left: 8%;
     }
@@ -335,7 +335,7 @@ footer .black-space-3 .b3 p{
     padding-top: 8px;
 }
 
-@media only screen and (max-width:402px){
+@media only screen and (max-width:1400px){
 
     footer .black-space-3 .b3 p{
         font-size: 8px;
